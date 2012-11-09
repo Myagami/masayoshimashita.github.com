@@ -9,5 +9,7 @@
 	Blog::Simutrans : <a href="http://masatrans-lab-diary.hateblo.jp/">more /home/masayoshi/simutrans/mastrans.log | grep blog</a><br>
 
 	</body>
-
+<?php
+   echo "echo " ;
+?>
 </html>
